@@ -1,6 +1,6 @@
-# Object Counter - Bug Reports and Feature Requests
+# Object Count: Count Anything - Bug Reports and Feature Requests
 
-Welcome to the Object Counter repository. This repository is dedicated to tracking bug reports, feature requests, and improvements for the Object Count web application. This space serves as the primary hub for submitting and discussing issues that can enhance our application.
+Welcome to the Object Count repository. This repository is dedicated to tracking bug reports, feature requests, and improvements for the Object Count web application. This space serves as the primary hub for submitting and discussing issues that can enhance our application.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -10,7 +10,7 @@ Welcome to the Object Counter repository. This repository is dedicated to tracki
 
 ## Overview
 
-The Object Counter application enables users to accurately count specific objects in images by leveraging advanced deep learning algorithms, requiring only a few reference examples to achieve quick results.This repository serves as the issue tracker where users can:
+The Object Count application enables users to accurately count specific objects in images by leveraging advanced deep learning techniques, requiring only a few reference examples to achieve quick results across diverse scenarios.This repository serves as the issue tracker where users can:
 
 - Report bugs and unexpected behavior
 - Suggest new features
@@ -101,4 +101,4 @@ To ensure smooth and effective issue management:
 
 ---
 
-Thank you for your interest in helping us improve the Object Counter application. We highly value your feedback and suggestions to enhance the application's performance and features!
+Thank you for your interest in helping us improve the Object Count application. We highly value your feedback and suggestions to enhance the application's performance and features!
