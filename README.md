@@ -1,4 +1,4 @@
-# Object Count: Count Anything - Bug Reports and Feature Requests
+# Object Count - Bug Reports and Feature Requests
 
 Welcome to the Object Count repository. This repository is dedicated to tracking bug reports, feature requests, and improvements for the Object Count web application. This space serves as the primary hub for submitting and discussing issues that can enhance our application.
 
