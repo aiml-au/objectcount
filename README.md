@@ -96,7 +96,7 @@ Do you have an idea that could improve the Object Count web application? Submit 
 To ensure smooth and effective issue management:
 
 - **Be clear and concise**: Provide as much detail as possible to help us understand the issue or request.
-- **One issue per report**: Do not combine multiple bugs or feature requests into a single issue. This helps in organizing and addressing each one separately.
+- **One issue per report**: Do not combine multiple bugs or feature requests into a single issue. This helps in organising and addressing each one separately.
 - **Search before posting**: Check if your bug or feature request has already been submitted by someone else to avoid duplication.
 
 ---
