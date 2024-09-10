@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/c1bb1e3d-b866-49ff-86cf-6d30a5c4fed2" alt="Object Count Logo" width="100"> Object Count - Bug Reports and Feature Requests 
+# <img src="object-count.svg" alt="Object Count Logo" width="100" style="vertical-align: middle;"> Object Count - Bug Reports and Feature Requests 
 
 <!-- ![object-count](https://github.com/user-attachments/assets/c1bb1e3d-b866-49ff-86cf-6d30a5c4fed2) -->
 
