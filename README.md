@@ -22,7 +22,7 @@ Please make sure to follow the provided templates and guidelines to help maintai
 
 ## How to Report a Bug
 
-If you encounter any bugs or issues with the Object Count web application, please follow the steps below to report it:
+If you encounter any bugs or issues with the Object Count web application, please first search the existing issues to see if the problem has already been reported. If not, follow the steps below to submit a new bug report:
 
 1. Navigate to the **Issues** tab.
 2. Click on the **New Issue** button.
@@ -82,7 +82,8 @@ Do you have an idea that could improve the Object Count web application? Submit 
 
 ### Example Feature Request
       **Is your feature request related to a problem? Please describe.**
-      Explain the problem you're facing or what you want to solve. What will this feature help with?
+      Explain the problem you're facing or what you want to solve. 
+      What will this feature help with?
       
       **Describe the solution you'd like**
       A clear and concise description of what you want to happen.
