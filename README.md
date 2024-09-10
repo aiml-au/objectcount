@@ -1,4 +1,6 @@
-# Object Count - Bug Reports and Feature Requests
+# <img src="https://github.com/user-attachments/assets/c1bb1e3d-b866-49ff-86cf-6d30a5c4fed2" alt="Object Count Logo" width="100"> Object Count - Bug Reports and Feature Requests 
+
+<!-- ![object-count](https://github.com/user-attachments/assets/c1bb1e3d-b866-49ff-86cf-6d30a5c4fed2) -->
 
 Welcome to the Object Count repository. This repository is dedicated to tracking bug reports, feature requests, and improvements for the Object Count web application. This space serves as the primary hub for submitting and discussing issues that can enhance our application.
 
