@@ -24,7 +24,7 @@ Please make sure to follow the provided templates and guidelines to help maintai
 
 ## How to Report a Bug
 
-If you encounter any bugs or issues with the Object Count web application, please first search the existing issues to see if the problem has already been reported. If not, follow the steps below to submit a new bug report:
+If you encounter any bugs or issues with the Object Count web application, please first search the [existing issues](https://github.com/aiml-au/objectcount/issues) to see if the problem has already been reported. If not, [click here](https://github.com/aiml-au/objectcount/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=) or follow the steps below to submit a new bug report:
 
 1. Navigate to the **Issues** tab.
 2. Click on the **New Issue** button.
@@ -71,7 +71,7 @@ If you encounter any bugs or issues with the Object Count web application, pleas
 
 ## How to Request a Feature
 
-Do you have an idea that could improve the Object Count web application? Submit a feature request by following these steps:
+Do you have an idea that could improve the Object Count web application? [Click here](https://github.com/aiml-au/objectcount/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=) or follow the steps to submit a feature request:
 
 1. Navigate to the **Issues** tab.
 2. Click on the **New Issue** button.
