@@ -12,13 +12,15 @@ Welcome to the Object Count repository. This repository is dedicated to tracking
 
 ## Overview
 
-The Object Count application enables users to accurately count specific objects in images by leveraging advanced deep learning techniques, requiring only a few reference examples to achieve quick results across diverse scenarios.This repository serves as the issue tracker where users can:
+The Object Count application empowers users to efficiently and accurately count objects in images by harnessing advanced deep learning techniques, such as class-agnostic counting and image segmentation. With the ability to work from just a few reference examples, it delivers rapid and reliable results across a wide range of use cases, including traffic analysis, retail inventory tracking, and industrial process monitoring. This repository serves as the issue tracker where users can:
 
 - Report bugs and unexpected behavior
 - Suggest new features
 - Propose enhancements to the user interface, performance, or functionality
 
 Please make sure to follow the provided templates and guidelines to help maintainers address the issues or requests efficiently.
+
+## About Object Count - Count Anything
 
 ## How to Report a Bug
 
