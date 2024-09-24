@@ -38,37 +38,86 @@ If you encounter any bugs or issues with the Object Count web application, pleas
    - **Environment**: Information about your browser, device, or any other relevant setup details.
 5. Submit the issue, and our team will review and investigate as soon as possible.
 
-### Example Bug Report
-      **Describe the bug**
-      A clear and concise description of what the bug is.
-      
-      **To Reproduce**
-      Steps to reproduce the behavior:
-      1. Go to '...'
-      2. Click on '....'
-      3. Scroll down to '....'
-      4. See error
-      
-      **Expected behavior**
-      A clear and concise description of what you expected to happen.
-      
-      **Screenshots**
-      If applicable, add screenshots to help explain your problem.
-      
-      **Desktop (please complete the following information):**
-       - OS: [e.g. iOS]
-       - Browser [e.g. chrome, safari]
-       - Version [e.g. 22]
-      
-      **Smartphone (please complete the following information):**
-       - Device: [e.g. iPhone6]
-       - OS: [e.g. iOS8.1]
-       - Browser [e.g. stock browser, safari]
-       - Version [e.g. 22]
-      
-      **Additional context**
-      Add any other context about the problem here.
+### Bug Report Template
+```
+  **Describe the bug**
+  A clear and concise description of what the bug is.
+  
+  **To Reproduce**
+  Steps to reproduce the behavior:
+  1. Go to '...'
+  2. Click on '....'
+  3. Scroll down to '....'
+  4. See error
+  
+  **Expected behavior**
+  A clear and concise description of what you expected to happen.
+  
+  **Screenshots**
+  If applicable, add screenshots to help explain your problem.
+  
+  **Desktop (please complete the following information):**
+   - OS: [e.g. iOS]
+   - Browser [e.g. chrome, safari]
+   - Version [e.g. 22]
+  
+  **Smartphone (please complete the following information):**
+   - Device: [e.g. iPhone6]
+   - OS: [e.g. iOS8.1]
+   - Browser [e.g. stock browser, safari]
+   - Version [e.g. 22]
+  
+  **Additional context**
+  Add any other context about the problem here.
+```
 
+<details>
+  <summary>Click to see an example bug report</summary>
+
+### Example Feature Request
+   
+**Describe the bug**
+
+When uploading a photo to the object count application, the app fails to return a result and instead displays an error message: "Image processing failed. Please try again later." This issue occurs consistently with images larger than 5MB.
+
+**To Reproduce**
+
+Steps to reproduce the behavior:
+1. Go to the object count application website.
+2. Click on the "Upload Photo" button.
+3. Select an image file larger than 5MB (e.g., a high-resolution JPEG).
+4. Wait for the processing to complete.
+5. See the error message instead of the object count result.
+
+**Expected behavior**
+
+The application should process the uploaded image regardless of its size (up to the maximum allowed limit) and return the correct object count.
+
+**Screenshots**
+
+![Error Message Screenshot](example.png)
+
+**Desktop (please complete the following information):**
+
+- OS: Windows 10
+- Browser: Google Chrome
+- Version: 95.0.4638.69
+
+**Smartphone (please complete the following information):**
+
+- Device: Samsung Galaxy S21
+- OS: Android 11
+- Browser: Chrome Mobile
+- Version: 95.0.4638.74
+
+**Additional context**
+
+- The issue does not occur with images smaller than 5MB.
+- There is no indication on the upload page about a file size limit.
+- Compressing the image to below 5MB allows it to be processed successfully.
+- Internet connection is stable, and other applications handle large file uploads without issue
+</details>
+      
 ## How to Request a Feature
 
 Do you have an idea that could improve the Object Count web application? [Click here](https://github.com/aiml-au/objectcount/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=) or follow the steps to submit a feature request:
@@ -82,19 +131,46 @@ Do you have an idea that could improve the Object Count web application? [Click 
    - **Proposed Solution**: Any ideas on how the feature can be implemented.
    - **Alternatives**: Any alternatives you’ve considered.
 
+### Feature Request Template
+```
+   **Is your feature request related to a problem? Please describe.**
+  Explain the problem you're facing or what you want to solve. 
+  What will this feature help with?
+  
+  **Describe the solution you'd like**
+  A clear and concise description of what you want to happen.
+  
+  **Describe alternatives you've considered**
+  A clear and concise description of any alternative solutions or features you've considered.
+  
+  **Additional context**
+  Add any other context or screenshots about the feature request here.
+```
+
+<details>
+  <summary>Click to see the example feature request</summary>
+   
 ### Example Feature Request
-      **Is your feature request related to a problem? Please describe.**
-      Explain the problem you're facing or what you want to solve. 
-      What will this feature help with?
-      
-      **Describe the solution you'd like**
-      A clear and concise description of what you want to happen.
-      
-      **Describe alternatives you've considered**
-      A clear and concise description of any alternative solutions or features you've considered.
-      
-      **Additional context**
-      Add any other context or screenshots about the feature request here.
+
+**Is your feature request related to a problem? Please describe.**  
+
+The object count application currently only supports single object types for counting (e.g., only counting one category such as cars, people, etc.). I often need to count multiple object types in a single image (e.g., both cars and people). This limitation means I have to manually count the second object type, which adds time to my workflow. 
+
+**Describe the solution you'd like**  
+
+I would like to see multi-class object detection added to the application, where the app can count multiple object types within a single image. For example, after uploading an image, the app should return the number of cars, people, and other relevant objects, all in one result.
+
+**Describe alternatives you've considered**  
+
+One alternative is to upload the same image to different applications that specialize in counting specific object types, but this is time-consuming and inefficient. Another approach is to use general-purpose object detection models via an API, but they are often not as user-friendly as the object count application.
+
+**Additional context**  
+
+- This feature would be especially useful for users dealing with complex scenes, such as crowded environments or urban areas.
+- A potential UI improvement could involve selecting which object categories to detect from a predefined list.
+- Below is an example of an image where detecting both cars and people would be useful:  
+  ![Example Image](example.png)
+</details>
 
 ## Issue Guidelines
 
