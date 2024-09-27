@@ -95,7 +95,7 @@ The application should process the uploaded image regardless of its size (up to 
 
 **Screenshots**
 
-![Error Message Screenshot](example.png)
+[Error Message Screenshot]
 
 **Desktop (please complete the following information):**
 
@@ -169,7 +169,7 @@ One alternative is to upload the same image to different applications that speci
 - This feature would be especially useful for users dealing with complex scenes, such as crowded environments or urban areas.
 - A potential UI improvement could involve selecting which object categories to detect from a predefined list.
 - Below is an example of an image where detecting both cars and people would be useful:  
-  ![Example Image](example.png)
+  [Example Image]
 </details>
 
 ## Issue Guidelines
